@@ -2,7 +2,6 @@
 - 👀 I’m interested in Technology, Testing, and Project Management
 - 🌱 I’m currently learning Automation Testing
 - 💞️ I’m looking to collaborate on Testing Automation Community
-- 📫 How to reach me 
 
 <!---
 eaytona/eaytona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
